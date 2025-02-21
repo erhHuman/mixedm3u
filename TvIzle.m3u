@@ -170,67 +170,67 @@ http://stream.tvcdn.net/haber/dha-canli-2.m3u8
 #EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="BeinSport", beIN Sports Haber
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/4743.ts
 
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport",beIN Sports 1
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1115.xyz
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport",BeinSport 1
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport",BeinSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/349628.ts
 
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/4740.ts
 
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/4521.ts
 
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/318927.ts
 
-#EXTINF:-1 tvg-id="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/349629.ts
 
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/201419.ts
 
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN Sports 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/318926.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", BeınSports 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", BeınSports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beınSports 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beınSports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432183
 
-#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs01.png" group-title="BeinSport", beIN SPORTS 1
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs02.png" group-title="BeinSport", BeınSports 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs02.png" group-title="BeinSport", BeınSports 2
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432186
 
-#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs02.png" group-title="BeinSport", beIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs02.png" group-title="BeinSport", beIN SPORTS 2
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs2.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs03.png" group-title="BeinSport", BeınSports 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs03.png" group-title="BeinSport", BeınSports 3
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432188
 
-#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs03.png" group-title="BeinSport", beIN SPORTS 3
+#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs03.png" group-title="BeinSport", beIN SPORTS 3
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs3.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs04.png" group-title="BeinSport", beIN SPORTS 4
+#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs04.png" group-title="BeinSport", beIN SPORTS 4
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs4.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bs05.png" group-title="BeinSport", beIN SPORTS 5
+#EXTINF:-1 tvg-id="beIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bs05.png" group-title="BeinSport", beIN SPORTS 5
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs5.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bm01.png" group-title="BeinSport", beIN Sports Max 1
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bm01.png" group-title="BeinSport", beIN Sports Max 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/820.ts
 
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/JustShare/refs/heads/main/BS/bm01.png" group-title="BeinSport", beIN Sports Max 1
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/BS/bm01.png" group-title="BeinSport", beIN Sports Max 1
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/301166.ts
 
 
