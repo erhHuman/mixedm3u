@@ -5,9 +5,8 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="Rize Türk TV.tr"tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/rizeturktv.png" group-title="Ulusal",Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
-
-#EXTINF:-1 tvg-id="AtvAvrupa.tr" tvg-logo="https://dmedya.com/wp-content/uploads/2017/03/atv-avrupa-tv-logo-png-300x200.png" group-title="Ulusal", Atv EU
-http://tinyursunx5.xyz:80/live/semsen554/armaka4z4/7566.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://dmedya.com/wp-content/uploads/2017/03/atv-avrupa-tv-logo-png-300x200.png" group-title="Ulusal", Atv EU
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/4939.ts
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
@@ -15,14 +14,14 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Ulusal", Euro D
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/4940.ts
 
-#EXTINF:-1 tvg-id="startv.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal", Star Tv
-http://tinyursunx5.xyz:80/live/semsen554/armaka4z4/28.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal", Star TV
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/724.ts
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Ulusal", Euro Star
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/4942.ts
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", Show TV
-http://tinyursunx5.xyz:80/live/semsen554/armaka4z4/97.ts
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/719.ts
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal", Show Türk
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/4941.ts
@@ -30,8 +29,8 @@ http://sine.x-purple.xyz:80/live/apocan@224/224@535/4941.ts
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png" group-title="Ulusal",Show Max
 https://canlitvulusal.xyz/live/showmax/index.m3u8
 
-#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal", Now TV
-http://tinyursunx5.xyz:80/live/semsen554/armaka4z4/200.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal", Now TV
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/709.ts
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
@@ -39,8 +38,8 @@ http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://raw.githubusercontent.com/erhHuman/Logolar/refs/heads/main/TV8_Int.jpg" group-title="Ulusal", TV8 Int
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/160036.ts
 
-#EXTINF:-1 tvg-id="Tv8.5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="Ulusal", Tv 8.5
-http://tinyursunx5.xyz:80/live/semsen554/armaka4z4/149841.ts
+#EXTINF:-1 tvg-name="TV 8.5"tvg-id="TV 8.5.tr"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="Ulusal",TV 8.5
+https://tvcdn.4t40.workers.dev/https://tv.arectv3.xyz/live/tv85.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7" tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -66,8 +65,8 @@ https://canlitvulusal.xyz/live/a2tv/index.m3u8
 #EXTINF:-1 tvg-id="TRT.Turk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TRT_T%C3%BCrk_logo_%282015-2021%29.svg/1024px-TRT_T%C3%BCrk_logo_%282015-2021%29.svg.png" group-title="Ulusal",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" group-title="Ulusal",TRT 2
-http://tinyursunx5.xyz:80/live/semsen554/armaka4z4/2414.ts
+#EXTINF:-1 "tvg-id="TRT 2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" group-title="Ulusal":http-referrer="",TRT 2
+http://alb854s.xyz:8080/st1321/st.0852/186242
 
 #EXTINF:-1 id="TRT.Avaz "tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png"group-title="Ulusal",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
